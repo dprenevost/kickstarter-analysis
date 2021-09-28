@@ -11,8 +11,8 @@
  2. I still do not know 90% of what I think I need to about excel
 
 ### Analysis of Outcomes Based on Launch Date
-####Here is the link to the outcome graph
-#### /Theater_Outcomes_vs_Launch.png.PNG
+#### Here is the link to the outcome graph
+[/Theater_Outcomes_vs_Launch.png.PNG]
 
 ### Analysis of Outcomes Based on Goals
 #### Here is the link to the Outcomes Based on Goals graph
