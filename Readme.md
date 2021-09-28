@@ -13,6 +13,7 @@
 ### Analysis of Outcomes Based on Launch Date
 #### Here is the link to the outcome graph
 /Theater_Outcomes_vs_Launch.png.PNG
+![stack Overflow](Theater_Outcomes_vs_Launch.png.PNG)
 
 ### Analysis of Outcomes Based on Goals
 #### Here is the link to the Outcomes Based on Goals graph
