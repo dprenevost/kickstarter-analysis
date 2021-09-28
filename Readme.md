@@ -16,7 +16,7 @@
 
 ### Analysis of Outcomes Based on Goals
 #### Here is the link to the Outcomes Based on Goals graph
-![Outcomes_vs_Goals](Outcomes_vs_Goals.PNGG)
+![Outcomes Goals](Outcomes_vs_Goals.PNGG)
 ### Challenges and Difficulties Encountered
 #### I found that I need to up my game A LOT.
 
